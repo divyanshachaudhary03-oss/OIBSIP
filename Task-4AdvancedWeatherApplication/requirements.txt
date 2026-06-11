@@ -1,0 +1,24 @@
+# Python Weather Application Dependencies
+# Compatible with Python 3.8+
+
+# GUI Framework
+PyQt6==6.6.1
+PyQt6-Qt6==6.6.1
+PyQt6-sip==13.6.0
+
+# HTTP Requests
+requests==2.31.0
+certifi==2023.11.17
+charset-normalizer==3.3.2
+idna==3.6
+urllib3==2.1.0
+
+# Geolocation Services
+geocoder==1.38.1
+ratelim==0.1.6
+six==1.16.0
+click==8.1.7
+
+# Optional: For better geocoding
+geopy==2.4.1
+geographiclib==2.0
