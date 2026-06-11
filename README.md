@@ -176,15 +176,7 @@ pip (Python package installer)
 
 General Setup
 
-Clone the repository:
-
-
-
-Bash
-
-git clone \[https://github.com/divyanshachaudhary03-oss/OIBSIP.git](https://github.com/divyanshachaudhary03-oss/OIBSIP.git)
-
-cd OIBSIP
+Clone the repository
 
 Install dependencies for the specific project you wish to run as outlined in the sections above.
 
@@ -229,3 +221,4 @@ Special thanks to Oasis Infobyte for providing this learning opportunity and gui
 
 
 Note: All applications are fully functional and have been tested.
+
